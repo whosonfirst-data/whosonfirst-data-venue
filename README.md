@@ -16,6 +16,8 @@ This respository is a starting point for venue data in Who's On First. All of th
 
 Details for the various repositories that contain WOF data are availible in human-readable and machine-readable forms through the [DATA.md](DATA.md) and [data.json](data.json) files.
 
+Also, it's probably worth having a quick read of the [whosonfirst-data versus whosonfirst-data-SOMETHING repositories](https://whosonfirst.mapzen.com/data/#github-repos) documentation.
+
 ## License
 
 https://github.com/whosonfirst/whosonfirst-data/blob/master/LICENSE.md
@@ -23,3 +25,4 @@ https://github.com/whosonfirst/whosonfirst-data/blob/master/LICENSE.md
 ## See also
 
 * https://whosonfirst.mapzen.com
+* https://whosonfirst.mapzen.com/spelunker/placetypes/venue/
