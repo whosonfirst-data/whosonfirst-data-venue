@@ -445,7 +445,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-tr", 
-    "count": 7154, 
+    "count": 56173, 
     "name": "whosonfirst-data-venue-tr", 
     "description": "Who's On First venue data for Turkey (TR)"
   }, 
@@ -1057,19 +1057,19 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-at", 
-    "count": 0, 
+    "count": 286613, 
     "name": "whosonfirst-data-venue-at", 
     "description": "Who's On First venue data for Austria (AT)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-au", 
-    "count": 416483, 
+    "count": 697614, 
     "name": "whosonfirst-data-venue-au", 
     "description": "Who's On First venue data for Australia (AU)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-be", 
-    "count": 0, 
+    "count": 770124, 
     "name": "whosonfirst-data-venue-be", 
     "description": "Who's On First venue data for Belgium (BE)"
   }, 
@@ -1093,7 +1093,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-ch", 
-    "count": 109088, 
+    "count": 589050, 
     "name": "whosonfirst-data-venue-ch", 
     "description": "Who's On First venue data for Switzerland (CH)"
   }, 
@@ -1117,7 +1117,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-dk", 
-    "count": 3458, 
+    "count": 170552, 
     "name": "whosonfirst-data-venue-dk", 
     "description": "Who's On First venue data for Denmark (DK)"
   }, 
@@ -1195,7 +1195,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-it", 
-    "count": 243593, 
+    "count": 314521, 
     "name": "whosonfirst-data-venue-it", 
     "description": "Who's On First venue data for Italy (IT)"
   }, 
@@ -1255,7 +1255,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-nl", 
-    "count": 317348, 
+    "count": 363304, 
     "name": "whosonfirst-data-venue-nl", 
     "description": "Who's On First venue data for Netherlands (NL)"
   }, 
@@ -1267,7 +1267,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-nz", 
-    "count": 68936, 
+    "count": 69488, 
     "name": "whosonfirst-data-venue-nz", 
     "description": "Who's On First venue data for New Zealand (NZ)"
   }, 
