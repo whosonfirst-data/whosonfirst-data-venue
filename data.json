@@ -67,7 +67,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-pa", 
-    "count": 0, 
+    "count": 1, 
     "name": "whosonfirst-data-venue-pa", 
     "description": "Who's On First venue data for Panama (PA)"
   }, 
@@ -103,13 +103,13 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-id", 
-    "count": 0, 
+    "count": 3, 
     "name": "whosonfirst-data-venue-id", 
     "description": "Who's On First venue data for Indonesia (ID)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-om", 
-    "count": 0, 
+    "count": 1, 
     "name": "whosonfirst-data-venue-om", 
     "description": "Who's On First venue data for Oman (OM)"
   }, 
@@ -121,7 +121,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-jm", 
-    "count": 0, 
+    "count": 1, 
     "name": "whosonfirst-data-venue-jm", 
     "description": "Who's On First venue data for Jamaica (JM)"
   }, 
@@ -145,13 +145,13 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-af", 
-    "count": 0, 
+    "count": 1, 
     "name": "whosonfirst-data-venue-af", 
     "description": "Who's On First venue data for Afghanistan (AF)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-kr", 
-    "count": 0, 
+    "count": 1, 
     "name": "whosonfirst-data-venue-kr", 
     "description": "Who's On First venue data for South Korea (KR)"
   }, 
@@ -199,7 +199,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-sa", 
-    "count": 0, 
+    "count": 1, 
     "name": "whosonfirst-data-venue-sa", 
     "description": "Who's On First venue data for Saudi Arabia (SA)"
   }, 
@@ -259,7 +259,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-th", 
-    "count": 0, 
+    "count": 4, 
     "name": "whosonfirst-data-venue-th", 
     "description": "Who's On First venue data for Thailand (TH)"
   }, 
@@ -295,13 +295,13 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-lk", 
-    "count": 0, 
+    "count": 1, 
     "name": "whosonfirst-data-venue-lk", 
     "description": "Who's On First venue data for Sri Lanka (LK)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-il", 
-    "count": 0, 
+    "count": 5, 
     "name": "whosonfirst-data-venue-il", 
     "description": "Who's On First venue data for Israel (IL)"
   }, 
@@ -505,7 +505,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-jp", 
-    "count": 0, 
+    "count": 12, 
     "name": "whosonfirst-data-venue-jp", 
     "description": "Who's On First venue data for Japan (JP)"
   }, 
@@ -589,13 +589,13 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-bd", 
-    "count": 0, 
+    "count": 3, 
     "name": "whosonfirst-data-venue-bd", 
     "description": "Who's On First venue data for Bangladesh (BD)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-hk", 
-    "count": 0, 
+    "count": 3, 
     "name": "whosonfirst-data-venue-hk", 
     "description": "Who's On First venue data for Hong Kong S.A.R. (HK)"
   }, 
@@ -631,19 +631,19 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-ar", 
-    "count": 0, 
+    "count": 13, 
     "name": "whosonfirst-data-venue-ar", 
     "description": "Who's On First venue data for Argentina (AR)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-ph", 
-    "count": 0, 
+    "count": 1, 
     "name": "whosonfirst-data-venue-ph", 
     "description": "Who's On First venue data for Philippines (PH)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-uy", 
-    "count": 0, 
+    "count": 5, 
     "name": "whosonfirst-data-venue-uy", 
     "description": "Who's On First venue data for Uruguay (UY)"
   }, 
@@ -661,7 +661,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-pe", 
-    "count": 0, 
+    "count": 2, 
     "name": "whosonfirst-data-venue-pe", 
     "description": "Who's On First venue data for Peru (PE)"
   }, 
@@ -745,7 +745,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-ae", 
-    "count": 0, 
+    "count": 4, 
     "name": "whosonfirst-data-venue-ae", 
     "description": "Who's On First venue data for United Arab Emirates (AE)"
   }, 
@@ -787,7 +787,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-sg", 
-    "count": 0, 
+    "count": 29, 
     "name": "whosonfirst-data-venue-sg", 
     "description": "Who's On First venue data for Singapore (SG)"
   }, 
@@ -859,7 +859,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-pk", 
-    "count": 0, 
+    "count": 3, 
     "name": "whosonfirst-data-venue-pk", 
     "description": "Who's On First venue data for Pakistan (PK)"
   }, 
@@ -925,7 +925,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-cn", 
-    "count": 0, 
+    "count": 12, 
     "name": "whosonfirst-data-venue-cn", 
     "description": "Who's On First venue data for China (CN)"
   }, 
@@ -991,7 +991,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-my", 
-    "count": 0, 
+    "count": 5, 
     "name": "whosonfirst-data-venue-my", 
     "description": "Who's On First venue data for Malaysia (MY)"
   }, 
@@ -1075,13 +1075,13 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-bg", 
-    "count": 0, 
+    "count": 4, 
     "name": "whosonfirst-data-venue-bg", 
     "description": "Who's On First venue data for Bulgaria (BG)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-br", 
-    "count": 0, 
+    "count": 19, 
     "name": "whosonfirst-data-venue-br", 
     "description": "Who's On First venue data for Brazil (BR)"
   }, 
@@ -1099,13 +1099,13 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-cl", 
-    "count": 0, 
+    "count": 1, 
     "name": "whosonfirst-data-venue-cl", 
     "description": "Who's On First venue data for Chile (CL)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-cz", 
-    "count": 0, 
+    "count": 15, 
     "name": "whosonfirst-data-venue-cz", 
     "description": "Who's On First venue data for Czech Republic (CZ)"
   }, 
@@ -1129,13 +1129,13 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-ee", 
-    "count": 0, 
+    "count": 10, 
     "name": "whosonfirst-data-venue-ee", 
     "description": "Who's On First venue data for Estonia (EE)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-fi", 
-    "count": 0, 
+    "count": 39, 
     "name": "whosonfirst-data-venue-fi", 
     "description": "Who's On First venue data for Finland (FI)"
   }, 
@@ -1159,7 +1159,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-gr", 
-    "count": 0, 
+    "count": 13, 
     "name": "whosonfirst-data-venue-gr", 
     "description": "Who's On First venue data for Greece (GR)"
   }, 
@@ -1171,25 +1171,25 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-hr", 
-    "count": 0, 
+    "count": 7, 
     "name": "whosonfirst-data-venue-hr", 
     "description": "Who's On First venue data for Croatia (HR)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-hu", 
-    "count": 0, 
+    "count": 8, 
     "name": "whosonfirst-data-venue-hu", 
     "description": "Who's On First venue data for Hungary (HU)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-ie", 
-    "count": 0, 
+    "count": 38, 
     "name": "whosonfirst-data-venue-ie", 
     "description": "Who's On First venue data for Ireland (IE)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-is", 
-    "count": 0, 
+    "count": 1, 
     "name": "whosonfirst-data-venue-is", 
     "description": "Who's On First venue data for Iceland (IS)"
   }, 
@@ -1207,25 +1207,25 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-li", 
-    "count": 0, 
+    "count": 1, 
     "name": "whosonfirst-data-venue-li", 
     "description": "Who's On First venue data for Liechtenstein (LI)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-lt", 
-    "count": 0, 
+    "count": 5, 
     "name": "whosonfirst-data-venue-lt", 
     "description": "Who's On First venue data for Lithuania (LT)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-lu", 
-    "count": 0, 
+    "count": 3, 
     "name": "whosonfirst-data-venue-lu", 
     "description": "Who's On First venue data for Luxembourg (LU)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-lv", 
-    "count": 0, 
+    "count": 4, 
     "name": "whosonfirst-data-venue-lv", 
     "description": "Who's On First venue data for Latvia (LV)"
   }, 
@@ -1243,7 +1243,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-mx", 
-    "count": 186, 
+    "count": 197, 
     "name": "whosonfirst-data-venue-mx", 
     "description": "Who's On First venue data for Mexico (MX)"
   }, 
@@ -1261,7 +1261,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-no", 
-    "count": 0, 
+    "count": 24, 
     "name": "whosonfirst-data-venue-no", 
     "description": "Who's On First venue data for Norway (NO)"
   }, 
@@ -1273,13 +1273,13 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-pl", 
-    "count": 0, 
+    "count": 23, 
     "name": "whosonfirst-data-venue-pl", 
     "description": "Who's On First venue data for Poland (PL)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-pt", 
-    "count": 0, 
+    "count": 21, 
     "name": "whosonfirst-data-venue-pt", 
     "description": "Who's On First venue data for Portugal (PT)"
   }, 
@@ -1315,13 +1315,13 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-si", 
-    "count": 0, 
+    "count": 9, 
     "name": "whosonfirst-data-venue-si", 
     "description": "Who's On First venue data for Slovenia (SI)"
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-se", 
-    "count": 0, 
+    "count": 74, 
     "name": "whosonfirst-data-venue-se", 
     "description": "Who's On First venue data for Sweden (SE)"
   }, 
@@ -1639,7 +1639,7 @@
   }, 
   {
     "url": "https://github.com/whosonfirst-data/whosonfirst-data-venue-za", 
-    "count": 0, 
+    "count": 9, 
     "name": "whosonfirst-data-venue-za", 
     "description": "Who's On First venue data for South Africa (ZA)"
   }
