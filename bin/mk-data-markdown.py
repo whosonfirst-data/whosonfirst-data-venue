@@ -69,7 +69,7 @@ if __name__ == '__main__':
         if count == 0:
             fh.write("* _0 venues_\n")
         elif count == 1:
-            fh.write("* one venues\n")
+            fh.write("* one venue\n")
         else:
             count = "{:,}".format(details['count'])
             fh.write("* %s venues\n" % count)
