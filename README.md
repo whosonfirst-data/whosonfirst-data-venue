@@ -2,12 +2,6 @@
 
 Venues in Who's On First.
 
-## Really Important
-
-_This is still wet-paint._ 
-
-You are welcome to poke around but please understand that we are in the process of working out the initial kinks.
-
 ## Important
 
 _There is no data in this repository._
