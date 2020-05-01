@@ -18,5 +18,5 @@ https://github.com/whosonfirst/whosonfirst-data/blob/master/LICENSE.md
 
 ## See also
 
-* https://whosonfirst.mapzen.com
-* https://whosonfirst.mapzen.com/spelunker/placetypes/venue/
+* https://whosonfirst.org/
+* https://spelunker.whosonfirst.org/placetypes/venue/
